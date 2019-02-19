@@ -1,0 +1,14 @@
+C:\Users\saipriyak\source\repos\BookingResources\BookingResources\bin\Debug\netcoreapp2.1\BookingResources.deps.json
+C:\Users\saipriyak\source\repos\BookingResources\BookingResources\bin\Debug\netcoreapp2.1\BookingResources.runtimeconfig.json
+C:\Users\saipriyak\source\repos\BookingResources\BookingResources\bin\Debug\netcoreapp2.1\BookingResources.runtimeconfig.dev.json
+C:\Users\saipriyak\source\repos\BookingResources\BookingResources\bin\Debug\netcoreapp2.1\BookingResources.dll
+C:\Users\saipriyak\source\repos\BookingResources\BookingResources\bin\Debug\netcoreapp2.1\BookingResources.pdb
+C:\Users\saipriyak\source\repos\BookingResources\BookingResources\obj\Debug\netcoreapp2.1\BookingResources.csprojAssemblyReference.cache
+C:\Users\saipriyak\source\repos\BookingResources\BookingResources\obj\Debug\netcoreapp2.1\BookingResources.csproj.CoreCompileInputs.cache
+C:\Users\saipriyak\source\repos\BookingResources\BookingResources\obj\Debug\netcoreapp2.1\BookingResources.RazorAssemblyInfo.cache
+C:\Users\saipriyak\source\repos\BookingResources\BookingResources\obj\Debug\netcoreapp2.1\BookingResources.RazorAssemblyInfo.cs
+C:\Users\saipriyak\source\repos\BookingResources\BookingResources\obj\Debug\netcoreapp2.1\BookingResources.AssemblyInfoInputs.cache
+C:\Users\saipriyak\source\repos\BookingResources\BookingResources\obj\Debug\netcoreapp2.1\BookingResources.AssemblyInfo.cs
+C:\Users\saipriyak\source\repos\BookingResources\BookingResources\obj\Debug\netcoreapp2.1\BookingResources.RazorTargetAssemblyInfo.cache
+C:\Users\saipriyak\source\repos\BookingResources\BookingResources\obj\Debug\netcoreapp2.1\BookingResources.dll
+C:\Users\saipriyak\source\repos\BookingResources\BookingResources\obj\Debug\netcoreapp2.1\BookingResources.pdb
